@@ -113,6 +113,11 @@
 .owl-carousel .fadeOut {
   animation-name: fadeOut; }
 
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+}
+
 @keyframes fadeOut {
   0% {
     opacity: 1; }
