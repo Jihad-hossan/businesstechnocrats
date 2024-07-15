@@ -3615,6 +3615,7 @@ img.lazy-image.loaded{
 	display: block;
 	background: #010101;
 	overflow: hidden;
+	height: 280px;
 }
 
 .news-block .image-box img{
