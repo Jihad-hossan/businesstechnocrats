@@ -610,8 +610,9 @@ img{
 .main-header .header-upper .logo-box{
 	position: relative;
 	float:left;
-	padding: 15px 0px;
+	padding: 0px;
 	z-index:10;
+	width: 350px;
 }
 
 .main-header .header-upper .logo-box .logo{
@@ -623,7 +624,7 @@ img{
 	position: relative;
 	display: inline-block;
 	max-width: 100%;
-	max-height: 80px;
+	width: 100%;
 	z-index:1;
 }
 
@@ -678,7 +679,7 @@ img{
 .main-menu .navigation > li{
 	position:relative;
 	float:left;
-	padding:25px 0px;
+	padding:10px 0px;
 	margin-right: 40px;
 	-webkit-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
@@ -1201,6 +1202,7 @@ img{
 
 .fixed-header .sticky-header .logo{
 	padding: 10px 0px;
+	width: 270px;
 }
 
 .sticky-header .main-menu .navigation > li{
