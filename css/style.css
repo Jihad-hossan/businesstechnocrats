@@ -1242,6 +1242,18 @@ img{
 	opacity:1;
 }
 
+.header_flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	gap: 40px;
+}
+.header_flex .nav-outer .mobile-nav-toggler{
+	margin-top: 0;
+}
+.nav-logo a img{
+	width: 100%;
+}
 /*** 
 
 ====================================================================
