@@ -612,7 +612,7 @@ img{
 	float:left;
 	padding: 0px;
 	z-index:10;
-	width: 350px;
+	width: 450px;
 }
 
 .main-header .header-upper .logo-box .logo{
@@ -672,7 +672,7 @@ img{
 
 .main-menu .navigation{
 	position:relative;
-	margin:0px;
+	margin: 15px 0 0px;
 	font-family: 'Arimo', sans-serif;
 }
 
@@ -1202,7 +1202,7 @@ img{
 
 .fixed-header .sticky-header .logo{
 	padding: 10px 0px;
-	width: 270px;
+	width: 370px;
 }
 
 .sticky-header .main-menu .navigation > li{
